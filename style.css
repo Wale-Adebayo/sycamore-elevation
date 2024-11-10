@@ -168,7 +168,9 @@ ul li a:hover{
 font-size: 30px;}
 
 .nav{
-justify-content: center;}
+justify-content: center;
+float: center;}
+
 
 
 }
