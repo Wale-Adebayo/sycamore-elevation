@@ -166,10 +166,7 @@ ul li a:hover{
 
 .nav{
 font-size: 1.5rem;
-}
-
-.navbar{
-width: 100%;
+max-width: 475px;
 }
 
 
