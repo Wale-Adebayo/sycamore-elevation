@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    max-width: 100%;
 }
 
 .nav{
@@ -10,6 +9,7 @@
     background-position: center;
     background-size: cover;
     height: 109vh;
+    max-width: 100%;
 }
 
 .navbar{
