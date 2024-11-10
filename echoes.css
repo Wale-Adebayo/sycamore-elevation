@@ -10,7 +10,6 @@
     background-position: center;
     background-size: cover;
     height: 109vh;
-    max-width: 100%;
 }
 
 .navbar{
@@ -167,3 +166,5 @@ ul li a:hover{
     color: #ff7200;
     font-size: 60px;
 }
+
+@media (max-width: 500px) {}

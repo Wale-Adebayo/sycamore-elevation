@@ -165,3 +165,5 @@ ul li a:hover{
     color: #ff7200;
     font-size: 60px;
 }
+
+@media (max-width: 500px) {}
