@@ -165,8 +165,7 @@ ul li a:hover{
 @media (max-width: 720px) {
 
 .nav{
-font-size: 1.5rem;
-background: 100%;
+background-size: 100%;
 }
 
 
