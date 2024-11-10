@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    max-width: 100%;
 }
 
 .nav{
@@ -159,3 +158,5 @@ ul li a:hover{
     color: #ff7200;
     font-size: 60px;
 }
+
+@media (max-width: 500px) {}
