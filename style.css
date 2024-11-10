@@ -162,3 +162,15 @@ ul li a:hover{
     font-size: 60px;
 }
 
+@media (max-width: 500px) {
+
+.nav{
+font-size: 1.5rem;
+}
+
+.navbar{
+width: 100%;
+}
+
+
+}
