@@ -7,9 +7,9 @@
 
 header .navbar{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
-    padding: 20px;
+    padding: 10px;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(Images/bg-image-2.jpg);
     background-position: center;
 }
@@ -17,7 +17,7 @@ header .navbar{
 .logo {
     display: flex;
     color: whitesmoke;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
     margin-top: 10px;
@@ -29,13 +29,13 @@ header .navbar{
     margin-top: 10px;
     display: flex;
     padding: 10px;
-    gap: 20px;  
+    gap: 100px;  
 }
 
 ul {
     list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
+    margin-left: 50px;
+    margin-top: 20px;
     font-size: 14px;
 }
 
